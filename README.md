@@ -5,7 +5,6 @@
 将音乐文件拷贝至 Raspberry_pi/music/ 目录下，修改 pi_wechat.py 代码可构建自己的音乐列表。
 
 
-Control the Raspberry_pi with WeChat.
 
 Use WeChat as a Raspberry_pi control client, can achieve music player, voice robot, video monitoring and other functions.
 
