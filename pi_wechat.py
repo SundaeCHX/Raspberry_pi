@@ -31,7 +31,9 @@ def text(msg):
 查看音乐列表请输入:
 “pi 音乐列表”
 查看设备信息请输入:
- "pi 设备信息"''', 'filehelper')
+ "pi 设备信息"
+查看视频监控请输入:
+ "pi 监控"''', 'filehelper')
         speech(u'树莓派已启动')
     if content[0:5] == 'robot':
         txt = content[6:-1]+content[-1]
